@@ -24,4 +24,7 @@ Enter movie name: Titanic
 Output:
 - Avatar
 - Avengers
+
+  ## Insight
+This project shows how data can be analyzed to find meaningful patterns and trends.
 ...
